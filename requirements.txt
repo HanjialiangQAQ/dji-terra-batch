@@ -1,0 +1,5 @@
+pyautogui>=0.9.54,<1
+pyperclip>=1.9,<2
+opencv-python>=4.10,<5
+pillow>=10,<13
+pynput>=1.7,<2

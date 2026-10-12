@@ -1,0 +1,17 @@
+{
+  "calibrated": false,
+  "screen_size": [3840, 2160],
+  "confidence": 0.92,
+  "reconstruction_mode": "2d_only",
+  "allowed_window_titles": ["DJI Terra", "选择文件夹"],
+  "coordinate_system_full_name": "",
+  "create_task": [],
+  "import_folder": [],
+  "configure_and_start": [],
+  "started_image": "",
+  "completed_image": "templates/completed_text.png",
+  "failure_images": [],
+  "dismiss_completion": [{"action": "click_image", "image": "templates/completed_confirm.png"}],
+  "idle_image": "",
+  "home_actions": []
+}
